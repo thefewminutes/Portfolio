@@ -1,7 +1,55 @@
 @charset "utf-8";
 /* CSS Document */
+
+html, body {
+	background-color: #fbf7b0;
+}
+
+#sub-hero1 {
+	background-color: #755363;
+}
+#sub-hero1 h2 {
+	color: #c4c412;
+	text-align: left;
+	margin-left: 10px;
+}
+#sub-hero1 p {
+	color: #fbf7b0;
+	text-align: left;
+}
+#sub-hero2 {
+	background-color: #c4c412;
+}
+#sub-hero2 h2 {
+	color: #403c50;
+	text-align: left;
+	margin-left: 10px;
+}
+#sub-hero2 p {
+	color: #755363;
+	text-align: left;
+}
+#sub-hero3 {
+	background-color: #403c50;
+}
+#sub-hero3 h2 {
+	color: #c4c412;
+	text-align: left;
+	margin-left: 10px;
+}
+#sub-hero3 p {
+	color: #fbf7b0;
+	text-align: left;
+}
+.carousel {
+	margin-bottom:0;
+}
 .carousel-caption {
 	text-align: left;
 	margin-bottom: 6em;
+}
+.img-thumbnail {
+	background-color:inherit;
+	border:none;	
 }
 
