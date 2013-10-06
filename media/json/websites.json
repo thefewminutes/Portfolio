@@ -1,0 +1,22 @@
+[
+	{
+		"id":1,
+		"years":"2012",
+		"title":"Mark D Johnson",
+		"author":"Mark D Johnson",
+		"role":"Front-end/back-end development, graphic layout",
+		"description":"I needed a fresh portfolio website, and a place to exercise new html5, CSS3 and javascript skills. This was the last iteration of my portfolio website, built with PHP.",
+		"thumbnail":"http://markdjohnsondev.com/media/portfolio/markdjohnson_sm.jpg",
+		"fullimage":"http://markdjohnsondev.com/media/portfolio/markdjohnson_lg.jpg"
+	},
+	{
+		"id":2,
+		"years":"2009-2012",
+		"title":"Snail HQ",
+		"author":"Produkt Web Design",
+		"role":"Front-end/back-end development, graphic layout",
+		"description":"<a href=\"http://www.snailhq.com/\" target=\"_blank\">Snail</a> is a hard rock band that needed a simple showcase website with a shopping cart to sell tshirts, CDs and other merchandise. I created their website using CSS, XHTML (transitional), javascript and the VPASP shopping cart component with a MySql backend. I recently updated this website with a new \"look\" including new graphics (provided by a band member) and an updated stylesheet.",
+		"thumbnail":"http://markdjohnsondev.com/media/portfolio/snailhq_sm.jpg",
+		"fullimage":"http://markdjohnsondev.com/media/portfolio/snailhq_lg.jpg"
+	}
+]
